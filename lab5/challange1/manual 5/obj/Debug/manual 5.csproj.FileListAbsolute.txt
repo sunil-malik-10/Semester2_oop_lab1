@@ -1,0 +1,7 @@
+D:\oop pd\New folder\manual 5\manual 5\bin\Debug\manual 5.exe.config
+D:\oop pd\New folder\manual 5\manual 5\bin\Debug\manual 5.exe
+D:\oop pd\New folder\manual 5\manual 5\bin\Debug\manual 5.pdb
+D:\oop pd\New folder\manual 5\manual 5\obj\Debug\manual 5.csproj.AssemblyReference.cache
+D:\oop pd\New folder\manual 5\manual 5\obj\Debug\manual 5.csproj.CoreCompileInputs.cache
+D:\oop pd\New folder\manual 5\manual 5\obj\Debug\manual 5.exe
+D:\oop pd\New folder\manual 5\manual 5\obj\Debug\manual 5.pdb

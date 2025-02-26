@@ -1,0 +1,7 @@
+C:\Users\Sumra Rasheed\Pictures\SECOND SEMESTER\OOP\ALL SLIDES\week 2\LAB 3\Arrays practice\LAB1\bin\Debug\LAB1.exe.config
+C:\Users\Sumra Rasheed\Pictures\SECOND SEMESTER\OOP\ALL SLIDES\week 2\LAB 3\Arrays practice\LAB1\bin\Debug\LAB1.exe
+C:\Users\Sumra Rasheed\Pictures\SECOND SEMESTER\OOP\ALL SLIDES\week 2\LAB 3\Arrays practice\LAB1\bin\Debug\LAB1.pdb
+C:\Users\Sumra Rasheed\Pictures\SECOND SEMESTER\OOP\ALL SLIDES\week 2\LAB 3\Arrays practice\LAB1\obj\Debug\TASK.csproj.AssemblyReference.cache
+C:\Users\Sumra Rasheed\Pictures\SECOND SEMESTER\OOP\ALL SLIDES\week 2\LAB 3\Arrays practice\LAB1\obj\Debug\TASK.csproj.CoreCompileInputs.cache
+C:\Users\Sumra Rasheed\Pictures\SECOND SEMESTER\OOP\ALL SLIDES\week 2\LAB 3\Arrays practice\LAB1\obj\Debug\LAB1.exe
+C:\Users\Sumra Rasheed\Pictures\SECOND SEMESTER\OOP\ALL SLIDES\week 2\LAB 3\Arrays practice\LAB1\obj\Debug\LAB1.pdb
